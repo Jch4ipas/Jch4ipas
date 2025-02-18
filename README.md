@@ -1,6 +1,7 @@
 <div align="center">
-    <h1>Hi I'm Jchaipas</h1>
+    <h1>Hi there, I'm Jch4ipas! 👋</h1>
 </div>
-Hi i'm Jchaipas, i'm swiss.
+Welcome to my GitHub profile! I'm passionate about coding, playing video game and building exciting projects. Here, you'll find a mix of my personal projects and experiments.
 
-i love coding, i'm in an apprenticeship and i love playing video game
+## 🎓 About Me
+I'm currently in my first year of apprenticeship at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>
