@@ -14,26 +14,20 @@ Here, you'll find a mix of my personal projects and experiments.
 
 <h2 align="center">Repositories 📂</h2>
     <div width="100%" align="center">
-      <a align="left" href="https://github.com/Jch4ipas/DashboardNextjsDockerAnsible" title="Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=DashboardNextjsDockerAnsible&theme=react&border_color=61dafb&border_radius=15"></a>
-      <a align="right" href="https://github.com/Jch4ipas/Kata-APOD" title="Kata-APOD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=Kata-APOD&theme=react&border_color=61dafb&border_radius=15"></a>
+      <a align="left" href="https://github.com/Jch4ipas/DashboardNextjsDockerAnsible" title="Dashboard"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=DashboardNextjsDockerAnsible&theme=react&border_color=ff0000&border_radius=15&title_color=ff0000&icon_color=ff0000"></a>
+      <a align="right" href="https://github.com/Jch4ipas/Kata-APOD" title="Kata-APOD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=Kata-APOD&theme=react&border_color=ff0000&border_radius=15&title_color=ff0000&icon_color=ff0000"></a>
     </div>
     <br><br><br><br><br><br>
     <div width="100%" align="center">
-      <a align="center" href="https://github.com/Jch4ipas/TelegrambotWP" title="jdt-generator"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=TelegrambotWP&theme=react&border_color=61dafb&border_radius=15"></a>
+      <a align="center" href="https://github.com/Jch4ipas/TelegrambotWP" title="jdt-generator"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jch4ipas&repo=TelegrambotWP&theme=react&border_color=ff0000&border_radius=15&title_color=ff0000&icon_color=ff0000"></a>
 </div>
 
 <h2>My Stats</h2>
 <div align="horizontal">
-    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jch4ipas&theme=react&border=61dafb"/>
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Jch4ipas&show_icons=true&theme=react&border_color=61dafb"/>
+    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jch4ipas&theme=react&border=ff0000&ring=ff0000&fire=ff0000&sideNums=fcfcfc&currStreakLabel=ff0000&sideLabels=ff0000&currStreakNum=fcfcfc"/>
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Jch4ipas&show_icons=true&theme=react&border_color=ff0000&title_color=ff0000&icon_color=ff0000"/>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br>
 
 
 <h2 align="My badges">My badges</h2>
