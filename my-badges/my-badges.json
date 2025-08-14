@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Jch4ipas/kata-APOD/commit/aa11946a2f6ca63cc0285b6b9c374fc6a50718d8\"><strong>a</strong>a11946a2f6ca63cc0285b6b9c374fc6a50718d8</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"[feature]\".",
+    "body": "My favorite commit message words are:\n\n1. [feature] (used 91 times)\n2. add (used 36 times)\n3. [fix] (used 31 times)\n4. change (used 28 times)\n5. version (used 17 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/126b68ef2272b25ebe75a86fe566837199ab67e1\">126b68e</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/419541e6af9c1fa2e68930f4859893dd82e7ec83\">419541e</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/2ed404cffb3f3c011bc8fecf7ae207ad347c4bc0\">2ed404c</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/337b71c2b05432c1b9385e73e1ea347a7a7f8143\">337b71c</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/4fe54bfb918632b8c95503c8e339eea0d25e0132\">4fe54bf</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/bd4093e0580b3a0ecbb46b8d8f915842ca561c64\">bd4093e</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/e4760f967535a1c2d4d7c1cde24e097943ff617e\">e4760f9</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/d9a019169a62222dfd6f6332cd0571bda61581a6\">d9a0191</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/36307c12f5f4f51d6e25ce22328ac829e518bec2\">36307c1</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/c485897a47a5bc0a89e1843a1f7b949eff7cd6e0\">c485897</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/b03b3553fce3258317d9a4ad19f9327d6d2fec69\">b03b355</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/b0586fd20b2b7c2d9a2e41bee5e6b8165b1b4e7f\">b0586fd</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/a6b2faedb69c31d3b86a6138da4aebab0e85fbc4\">a6b2fae</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/d9a019169a62222dfd6f6332cd0571bda61581a6\">d9a0191</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/24e7b8940ab45ec287f5c897521462dc9a0c776b\">24e7b89</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/c74c368766ad02dab16cb29e5918130d65e6b1db\">c74c368</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/c4352d78481c8f31c900614dcbe6611017b64896\">c4352d7</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/ae7f17babe086e7fce0987aec110dd63fd6298b6\">ae7f17b</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/a54df6c11766b63b6aa56c53302ea98ee9ba7fbb\">a54df6c</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/d7ded88569516e3ae2288838b6ef985d65fd61ab\">d7ded88</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/3a8b4fb95306b1cd69f7ad6fbe25958a27fc464d\">3a8b4fb</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/ce5fbfa7ba2710a06867db8737c57146221d5f6f\">ce5fbfa</a>\n- <a href=\"https://github.com/Jch4ipas/DashboardNextjsDockerAnsible/commit/cb6da73eeb2b9d7b93322982c08bbf29cddb1344\">cb6da73</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/b7eb559955ca878e76c85986a36272a26be4803d\">b7eb559</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/428745ca8e84c4b086bf34342f54c353260a937c\">428745c</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/92ae5b7c6d07c089ef31dd9e6411fec11a92d559\">92ae5b7</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  }
+]
