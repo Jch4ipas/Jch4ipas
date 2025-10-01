@@ -4,7 +4,7 @@
 <p align="center">
 Welcome to my GitHub profile!<br>
 I'm passionate about coding, playing video game, Drone FPV and building exciting projects.<br>
-I'm currently in my first year of apprenticeship at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>
+I'm currently in my second year of apprenticeship at <a href="https://www.epfl.ch/en/" target="_blank">EPFL.</a><br>
 Here, you'll find a mix of my personal projects and experiments.
 </p>
 
