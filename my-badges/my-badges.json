@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[feature]\".",
-    "body": "My favorite commit message words are:\n\n1. [feature] (used 101 times)\n2. add (used 44 times)\n3. [fix] (used 34 times)\n4. change (used 30 times)\n5. update (used 20 times)",
+    "body": "My favorite commit message words are:\n\n1. [feature] (used 101 times)\n2. add (used 45 times)\n3. [fix] (used 34 times)\n4. change (used 30 times)\n5. update (used 20 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -61,5 +61,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/apacheWithEntraId/commit/7145ceb286ce4d644b54cf3f6a6ca0e936d3eb38\">7145ceb</a>\n- <a href=\"https://github.com/Jch4ipas/apacheWithEntraId/commit/ae6ad327cec6ca2ea5c7cc7f5affa01a1e1d1c57\">ae6ad32</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/blogs-archive/commit/3155d0c17b15930ce4e07e9ab156c01b503f6ecc\">3155d0c</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
