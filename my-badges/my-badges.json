@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[feature]\".",
-    "body": "My favorite commit message words are:\n\n1. [feature] (used 127 times)\n2. add (used 69 times)\n3. [fix] (used 58 times)\n4. change (used 36 times)\n5. update (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. [feature] (used 131 times)\n2. add (used 78 times)\n3. [fix] (used 60 times)\n4. change (used 36 times)\n5. update (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/ModuleCoursDocker347Exam/commit/1ffb026317e40db019682cfc92d69d3359c113a6\">1ffb026</a>\n- <a href=\"https://github.com/epfl-si/blogs-archive/commit/3155d0c17b15930ce4e07e9ab156c01b503f6ecc\">3155d0c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/lil.ops/commit/9307b99ac837cda835222b5ab9840661a5765fdb\">9307b99</a>\n- <a href=\"https://github.com/Jch4ipas/ModuleCoursDocker347Exam/commit/1ffb026317e40db019682cfc92d69d3359c113a6\">1ffb026</a>\n- <a href=\"https://github.com/epfl-si/blogs-archive/commit/3155d0c17b15930ce4e07e9ab156c01b503f6ecc\">3155d0c</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
