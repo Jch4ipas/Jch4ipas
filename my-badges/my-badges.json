@@ -1,79 +1,9 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Jch4ipas/kata-APOD/commit/aa11946a2f6ca63cc0285b6b9c374fc6a50718d8\"><strong>a</strong>a11946a2f6ca63cc0285b6b9c374fc6a50718d8</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"[feature]\".",
-    "body": "My favorite commit message words are:\n\n1. [feature] (used 169 times)\n2. add (used 117 times)\n3. [fix] (used 83 times)\n4. update (used 40 times)\n5. change (used 38 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/grist-widget/commit/20b7685ad2630a3d7c111fb0633bb160f45f3caa\">20b7685</a>\n- <a href=\"https://github.com/Jch4ipas/grist-widget/commit/55f77b05e24dfb2a2668f5ce2a0397dcb70736a4\">55f77b0</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/126b68ef2272b25ebe75a86fe566837199ab67e1\">126b68e</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/419541e6af9c1fa2e68930f4859893dd82e7ec83\">419541e</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/2ed404cffb3f3c011bc8fecf7ae207ad347c4bc0\">2ed404c</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/337b71c2b05432c1b9385e73e1ea347a7a7f8143\">337b71c</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/4fe54bfb918632b8c95503c8e339eea0d25e0132\">4fe54bf</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/bd4093e0580b3a0ecbb46b8d8f915842ca561c64\">bd4093e</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/e4760f967535a1c2d4d7c1cde24e097943ff617e\">e4760f9</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/d9a019169a62222dfd6f6332cd0571bda61581a6\">d9a0191</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/36307c12f5f4f51d6e25ce22328ac829e518bec2\">36307c1</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/c485897a47a5bc0a89e1843a1f7b949eff7cd6e0\">c485897</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/b03b3553fce3258317d9a4ad19f9327d6d2fec69\">b03b355</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/d9a019169a62222dfd6f6332cd0571bda61581a6\">d9a0191</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/apacheWithEntraId/commit/4f27606a9af7d4ba478b843b02ccdf2ce3f3b31c\">4f27606</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/24e7b8940ab45ec287f5c897521462dc9a0c776b\">24e7b89</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/c74c368766ad02dab16cb29e5918130d65e6b1db\">c74c368</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/c4352d78481c8f31c900614dcbe6611017b64896\">c4352d7</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/ae7f17babe086e7fce0987aec110dd63fd6298b6\">ae7f17b</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/a54df6c11766b63b6aa56c53302ea98ee9ba7fbb\">a54df6c</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/e2900c26525aa05a38b8c7a6ed9fdbce2994e415\">e2900c2</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/7f862d9e97902369d9e40eaa07fc5ae01f6feab1\">7f862d9</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/1157cd623157115384ee70102f236b83ebec4860\">1157cd6</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/2f1141228d569d21cfa1d7cab9c7c4195ae7cae4\">2f11412</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/0d180b93d3756cad8457ed4177348679bceeda9b\">0d180b9</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/191564e941092ce3cb6a3268020037ca882d9658\">191564e</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/Jch4ipas/commit/5bf3a4b9efba0e97baee3f3ebc0708fa63c82ac1\">5bf3a4b</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/apacheWithEntraId/commit/7145ceb286ce4d644b54cf3f6a6ca0e936d3eb38\">7145ceb</a>\n- <a href=\"https://github.com/Jch4ipas/apacheWithEntraId/commit/ae6ad327cec6ca2ea5c7cc7f5affa01a1e1d1c57\">ae6ad32</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/guided-tours.frontend/commit/ec8311b329aefab251000a10bd0658c23b607daa\">ec8311b</a>\n- <a href=\"https://github.com/epfl-si/lil.ops/commit/9307b99ac837cda835222b5ab9840661a5765fdb\">9307b99</a>\n- <a href=\"https://github.com/Jch4ipas/ModuleCoursDocker347Exam/commit/1ffb026317e40db019682cfc92d69d3359c113a6\">1ffb026</a>\n- <a href=\"https://github.com/epfl-si/blogs-archive/commit/3155d0c17b15930ce4e07e9ab156c01b503f6ecc\">3155d0c</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/35e0163506a95908628fb17841a5e49112002143\">35e0163</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/6523a7ced1e18f62ee316d5f9fa420ab7a379f0e\">6523a7c</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/286af7b9f0d78ec116285fdeb27d9653d1eee4ad\">286af7b</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/6276bd476e048457c282b8408df289fe44116848\">6276bd4</a>\n- <a href=\"https://github.com/Jch4ipas/BoardFSDash/commit/bc9626896030002a3beb7d5250610be94ea2c29f\">bc96268</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/c601be5f2af24021a3148ea3b99257095b066c47\">c601be5</a>\n- <a href=\"https://github.com/Jch4ipas/TelegrambotWP/commit/ac7868dd37a3000ab46dc8ed971cc5d0fc99729e\">ac7868d</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
