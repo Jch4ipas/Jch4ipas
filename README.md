@@ -1,3 +1,7 @@
+<!-- my-badges start -->
+<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
+<!-- my-badges end -->
+
 <div align="center">
     <h1>Hi there, I'm Jch4ipas! 👋</h1>
 </div>
